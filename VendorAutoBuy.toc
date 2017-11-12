@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Vendor|cff60ff00AutoBuy|r
+## Notes: Helps you buy sold-out items from merchants
+## Author: EinBaum https://github.com/EinBaum
+## Version: 1.0
+## SavedVariables: VAB_Global
+
+VendorAutoBuy.lua
